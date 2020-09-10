@@ -1,0 +1,94 @@
+body{
+	background-image:url('https://i.ytimg.com/vi/AXxQUB5yDVQ/maxresdefault.jpg'); 
+	background-size: cover;
+}
+
+#bart{
+position: absolute;
+	width: 17%;
+	height: 4%;
+	border-radius: 50px;
+	text-align: center;
+	color: white;
+	background-color:green;
+	box-shadow: 0 0 4px 4px lightgreen;
+}
+#barb{
+position: absolute;
+top: 95vh;
+	width: 17%;
+	height: 4%;
+	border-radius: 50px;
+	text-align: center;
+	color: white;
+	box-shadow: 0 0 4px 4px lightgreen;
+	background-color:green;
+}
+#ball{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 90.5vh;
+	box-shadow: 0 0 4px 4px  #ff4d4d;
+	background-color: red;
+	border-radius: 50%;
+}
+button{
+
+	position: absolute;
+	top: 50%;
+	left: 40%;
+	width: 15%;
+	height: 8%;
+	border-color: transparent;
+	border-radius: 50px;
+box-shadow: 0 0 4px 4px lightgreen;
+		background-color:green;
+		outline: none;
+		font-size: 1.1rem;
+		color: white;
+}
+#hs{
+position: absolute;
+	top: 25%;
+	left: 42%;
+	width: 140px;
+	height: 40px;
+	border-color: transparent;
+	border-radius: 50px;
+box-shadow: 0 0 4px 4px lightgreen;
+		background-color:green;
+		outline: none;
+		font-size: 1rem;
+		color: white;
+		text-align: center;
+
+
+}
+#cs{
+position: absolute;
+	top: 35%;
+	left: 42%;
+	width: 140px;
+	height: 40px;
+	border-color: transparent;
+	border-radius: 50px;
+box-shadow: 0 0 4px 4px lightgreen;
+		background-color:green;
+		outline: none;
+		font-size: 1rem;
+		color: white;
+		text-align: center;
+
+
+}
+#cs p{
+margin-top: -1%;
+font-size: 1.4rem;
+
+}
+#hs p{
+margin-top: -1%;
+font-size: 1.4rem;
+
+}
